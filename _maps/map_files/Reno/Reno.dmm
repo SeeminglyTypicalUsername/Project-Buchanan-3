@@ -8428,10 +8428,6 @@
 	},
 /turf/open/floor/plasteel/f13/vault_floor/neutral/neutralchess,
 /area/f13/chapel)
-"bvg" = (
-/obj/machinery/scanner_gate,
-/turf/open/floor/wood/f13/oak/lit,
-/area/f13/reno_prison)
 "bvh" = (
 /obj/item/clothing/head/cone,
 /turf/open/floor/plating/tunnel/curb,
@@ -52222,7 +52218,6 @@
 /obj/structure/closet/crate/safe{
 	pixel_x = 6
 	},
-/obj/structure/nest/spawner/raider,
 /turf/open/floor/plasteel/f13/vault_floor/green/white/whitegreenchess/lit,
 /area/f13/raiders)
 "iNv" = (
@@ -70545,11 +70540,6 @@
 	pixel_y = -6;
 	pixel_x = -7;
 	dir = 4
-	},
-/obj/structure/fence/wooden{
-	pixel_x = 8;
-	pixel_y = 2;
-	density = 0
 	},
 /turf/open/transparent/openspace/air,
 /area/maintenance/aft)
@@ -124147,13 +124137,9 @@
 /turf/open/floor/carpet/royalblack,
 /area/f13/heist)
 "uPX" = (
-/obj/structure/fence/wooden{
-	pixel_x = 8;
-	pixel_y = 32;
-	density = 0
-	},
-/turf/closed/wall/mineral/concrete/blastproof/moresmooth,
-/area/maintenance/aft)
+/obj/machinery/scanner_gate,
+/turf/open/floor/wood/f13/oak/lit,
+/area/f13/reno_prison)
 "uPZ" = (
 /obj/item/storage/trash_stack,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust/lit,
@@ -183914,7 +183900,7 @@ pNM
 bnu
 whP
 hJy
-bvg
+uPX
 vBA
 vyj
 wzn
@@ -260803,7 +260789,7 @@ hOA
 hOA
 hOA
 mqB
-uPX
+sWG
 sWG
 sWG
 sWG
