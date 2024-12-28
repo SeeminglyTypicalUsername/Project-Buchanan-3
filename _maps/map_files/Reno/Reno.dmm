@@ -3744,6 +3744,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/closet/cabinet,
 /obj/machinery/light/small/broken,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
 /turf/open/floor/wood/f13/carpet/lit,
 /area/f13/raiders)
 "aFW" = (
@@ -14460,6 +14461,11 @@
 	sunlight_state = 1
 	},
 /area/f13/reno_yakuza)
+"cxp" = (
+/obj/structure/closet/crate/large,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
+/turf/open/floor/plasteel/f13/vault_floor/darkerrusty,
+/area/f13/shack)
 "cxw" = (
 /turf/open/floor/wood/f13/carpet/lit,
 /area/f13/reno_building)
@@ -17260,6 +17266,11 @@
 	},
 /turf/open/floor/wood/f13/carpet/lit,
 /area/f13/raiders)
+"cTh" = (
+/obj/structure/table/wood/fancy/red,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
+/turf/open/floor/wood/lit,
+/area/f13/bar)
 "cTi" = (
 /obj/effect/overlay/gravel/edge,
 /obj/effect/decal/remains/human{
@@ -18550,6 +18561,7 @@
 /obj/structure/table/reinforced,
 /obj/item/ammo_casing/c45,
 /obj/effect/decal/cleanable/dirt,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
 /turf/open/floor/f13/green,
 /area/f13/reno_subway)
 "deA" = (
@@ -19299,6 +19311,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/closet/cabinet,
 /obj/effect/spawner/lootdrop/f13/medical/wasteland/meds/drug,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
 /turf/open/floor/wood/f13/oak/lit,
 /area/f13/farmhousesouth)
 "dkf" = (
@@ -26953,6 +26966,7 @@
 /obj/effect/spawner/lootdrop/f13/medical/wasteland/meds/drug,
 /obj/effect/spawner/lootdrop/f13/medical/wasteland/meds/drug,
 /obj/item/reagent_containers/food/snacks/grown/tobacco/dried,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
 /turf/open/indestructible/ground/outside/reno_sidewalk{
 	icon_state = "crosswalk"
 	},
@@ -31191,6 +31205,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/item/reagent_containers/glass/bottle/welding_fuel,
 /obj/item/reagent_containers/glass/bottle/welding_fuel,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
 /turf/open/floor/wood/f13/oak/lit,
 /area/f13/reno_west_building)
 "flQ" = (
@@ -34411,6 +34426,11 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/f13/vault_floor/green/white/whitegreenchess/lit,
 /area/f13/reno_east_building)
+"fNk" = (
+/obj/structure/table/round,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
+/turf/open/floor/carpet/green/lit,
+/area/f13/theater)
 "fNt" = (
 /obj/structure/table/round{
 	pixel_y = -1
@@ -37695,6 +37715,7 @@
 /area/f13/heist)
 "gqU" = (
 /obj/structure/closet/locker/fridge,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
 /turf/open/floor/plasteel/grimy/lit,
 /area/f13/raider_mall)
 "grg" = (
@@ -46922,6 +46943,11 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/wood/f13/carpet/lit,
 /area/f13/raiders)
+"hQW" = (
+/obj/structure/closet/cabinet,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
+/turf/open/floor/wood/f13/oak/lit,
+/area/f13/farmhouse)
 "hQX" = (
 /obj/structure/punching_bag,
 /turf/open/floor/wood/f13/oak/lit,
@@ -47276,6 +47302,7 @@
 /obj/structure/closet/crate/wicker{
 	name = "donation basket"
 	},
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
 /turf/open/floor/wood/lit,
 /area/f13/chapel)
 "hVq" = (
@@ -54323,6 +54350,7 @@
 /area/f13/reno_subway)
 "jgd" = (
 /obj/structure/closet/crate/trashcart,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
 /turf/open/indestructible/ground/outside/ruins,
 /area/f13/raiders)
 "jgl" = (
@@ -59528,6 +59556,16 @@
 /obj/structure/curtain,
 /turf/open/floor/plasteel/f13/vault_floor/green/white/whitegreenchess,
 /area/f13/raiders)
+"jZV" = (
+/obj/structure/flora/grass/whitelegvine{
+	icon_state = "Med1";
+	layer = 4.11;
+	pixel_y = 32;
+	name = "vines"
+	},
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
+/turf/open/indestructible/ground/inside/mountain,
+/area/f13/reno_tribal)
 "kaa" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/chair/sofa/right{
@@ -59959,6 +59997,7 @@
 "kdT" = (
 /obj/structure/table,
 /obj/effect/decal/cleanable/dirt,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
 /turf/open/floor/plasteel/f13/vault_floor/blueredchess/lit,
 /area/f13/reno_building)
 "kdW" = (
@@ -70951,6 +70990,7 @@
 	},
 /obj/structure/curtain,
 /obj/effect/decal/cleanable/dirt,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
 /turf/open/floor/plasteel/f13/vault_floor/misc/rarewhite,
 /area/f13/raider_mall)
 "lTK" = (
@@ -105250,6 +105290,12 @@
 /obj/structure/gallow,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/reno_subway)
+"rJv" = (
+/obj/structure/rack/shelf_metal,
+/obj/effect/spawner/lootdrop/f13/crafting,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
+/turf/open/floor/wood/f13/lit,
+/area/f13/wrights)
 "rJw" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/closet/crate/engineering/electrical,
@@ -109402,6 +109448,10 @@
 	},
 /turf/open/floor/wood/f13/oak,
 /area/f13/raiders)
+"stP" = (
+/obj/machinery/scanner_gate,
+/turf/open/floor/wood/f13/oak/lit,
+/area/f13/reno_prison)
 "stQ" = (
 /obj/structure/girder,
 /obj/structure/girder,
@@ -111548,6 +111598,7 @@
 /area/f13/reno_sewers)
 "sMa" = (
 /obj/structure/table/wood/settler,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
 /turf/open/floor/plasteel/f13/vault_floor/green/side{
 	dir = 8
 	},
@@ -111839,6 +111890,10 @@
 	dir = 9
 	},
 /area/f13/reno_subway)
+"sOt" = (
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
+/turf/closed/wall/f13/wood/house,
+/area/f13/shack)
 "sOy" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
@@ -124137,9 +124192,12 @@
 /turf/open/floor/carpet/royalblack,
 /area/f13/heist)
 "uPX" = (
-/obj/machinery/scanner_gate,
-/turf/open/floor/wood/f13/oak/lit,
-/area/f13/reno_prison)
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/rack/shelf_metal,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds/drug,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
+/turf/open/floor/wood/f13/oak,
+/area/f13/raiders)
 "uPZ" = (
 /obj/item/storage/trash_stack,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust/lit,
@@ -124814,6 +124872,7 @@
 /obj/structure/closet/crate/bin/trashbin{
 	pixel_x = 15
 	},
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
 /turf/open/floor/wood/f13/oak,
 /area/f13/reno_building)
 "uVF" = (
@@ -127677,6 +127736,7 @@
 	color = "000000"
 	},
 /obj/structure/junk/small/table,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
 /turf/open/floor/wood/f13/carpet/lit,
 /area/f13/raiders)
 "vuM" = (
@@ -131538,6 +131598,10 @@
 	sunlight_state = 1
 	},
 /area/f13/reno_sewers)
+"wcp" = (
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
+/turf/open/indestructible/ground/inside/mountain,
+/area/f13/reno_tribal)
 "wcu" = (
 /obj/structure/toilet/secret/prison{
 	dir = 1
@@ -139200,6 +139264,11 @@
 	icon_state = "rubblepillar"
 	},
 /area/f13/raiders)
+"xpF" = (
+/obj/structure/table/reinforced,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
+/turf/open/floor/f13/green,
+/area/f13/reno_subway)
 "xpG" = (
 /obj/effect/overlay/curb/corner{
 	dir = 8;
@@ -139685,6 +139754,8 @@
 /obj/item/defibrillator,
 /obj/item/tank/internals/anesthetic,
 /obj/item/clothing/mask/breath,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
 /turf/open/floor/plasteel/casino,
 /area/f13/vangraffs)
 "xsC" = (
@@ -139773,6 +139844,11 @@
 	icon = 'icons/turf/f13floors2.dmi'
 	},
 /area/maintenance/aft)
+"xsX" = (
+/obj/structure/closet/crate/wicker,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
+/turf/open/indestructible/ground/inside/mountain,
+/area/f13/reno_tribal)
 "xsY" = (
 /turf/closed/wall/f13/wood/interior,
 /area/f13/farmhousesouth)
@@ -143209,6 +143285,7 @@
 /obj/structure/closet/cabinet,
 /obj/effect/decal/cleanable/dirt,
 /obj/item/clothing/head/helmet/f13/salvatores/fedora,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
 /turf/open/floor/wood/f13/oak/lit,
 /area/f13/reno_east_building)
 "xYB" = (
@@ -159516,7 +159593,7 @@ vyo
 mtM
 cgD
 qiU
-xcv
+xpF
 kqP
 apl
 mbt
@@ -173820,7 +173897,7 @@ kBU
 kHz
 jhE
 uFw
-qQu
+jZV
 dKC
 xxB
 tth
@@ -183900,7 +183977,7 @@ pNM
 bnu
 whP
 hJy
-uPX
+stP
 vBA
 vyj
 wzn
@@ -193192,7 +193269,7 @@ gbK
 rAk
 rwP
 hPB
-rwP
+cTh
 rwP
 wnS
 eQs
@@ -205003,7 +205080,7 @@ emG
 emG
 icF
 jTI
-xby
+cxp
 tKk
 cUe
 cUe
@@ -205155,7 +205232,7 @@ jTI
 jTI
 jTI
 jTI
-tKk
+sOt
 tKk
 cUe
 oIV
@@ -207178,7 +207255,7 @@ ttG
 fHv
 txg
 cWx
-xID
+hQW
 xID
 cWx
 oDL
@@ -216098,7 +216175,7 @@ lwc
 bcT
 dKC
 dKC
-ebK
+xsX
 mTs
 dKC
 dKC
@@ -219908,7 +219985,7 @@ eQU
 dKC
 dKC
 dKC
-dKC
+wcp
 faz
 xxB
 sTI
@@ -225454,7 +225531,7 @@ vGA
 fau
 vGA
 asM
-gNo
+uPX
 gNo
 vGA
 cCk
@@ -248108,7 +248185,7 @@ tGX
 eAa
 ijz
 fRi
-pqT
+rJv
 fRi
 eAa
 cBW
@@ -254676,7 +254753,7 @@ ccB
 wBn
 nTN
 jPr
-nTN
+fNk
 gKi
 xdM
 cIk
